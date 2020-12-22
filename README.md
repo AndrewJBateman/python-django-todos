@@ -1,6 +1,6 @@
 # :zap: Python Django Todo
 
-* Python-Django CRUD (Create, Read, Update & Delete) app tomanage user todos
+* Python-Django CRUD (Create, Read, Update & Delete) app to manage todo tasks
 * Code from a tutorial by [Dennis Ivy](https://www.youtube.com/channel/UCTZRcDjjkVajGL6wd76UnGg) - see [:clap: Inspiration](#clap-inspiration) below
 
 ## :page_facing_up: Table of contents
@@ -19,12 +19,12 @@
 
 ## :books: General info
 
-* User can add todo items to a list and can update or delete items
+* User can add todo tasks to a list and then update or delete items
 * Styling done using Bootstrap
 
 ## :camera: Screenshots
 
-![screen print](./img/tasks.png)
+![screen print](./img/tasks.jpg)
 
 ## :signal_strength: Technologies
 
