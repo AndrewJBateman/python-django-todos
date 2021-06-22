@@ -2,6 +2,12 @@
 
 * Python-Django CRUD (Create, Read, Update & Delete) app to manage todo tasks
 * Code from a tutorial by [Dennis Ivy](https://www.youtube.com/channel/UCTZRcDjjkVajGL6wd76UnGg) - see [:clap: Inspiration](#clap-inspiration) below
+* **Note:** to open web links in a new window use: _ctrl+click on link_
+
+![GitHub repo size](https://img.shields.io/github/repo-size/AndrewJBateman/python-django-todos?style=plastic)
+![GitHub pull requests](https://img.shields.io/github/issues-pr/AndrewJBateman/python-django-todos?style=plastic)
+![GitHub Repo stars](https://img.shields.io/github/stars/AndrewJBateman/python-django-todos?style=plastic)
+![GitHub last commit](https://img.shields.io/github/last-commit/AndrewJBateman/python-django-todos?style=plastic)
 
 ## :page_facing_up: Table of contents
 
@@ -81,6 +87,10 @@ def updateTask(request, pk):
 
 * [Dennis Ivy: To Do App | Django 3.0](https://www.youtube.com/watch?v=4RWFvXDUmjo)
 
+## :file_folder: License
+
+* N/A
+
 ## :envelope: Contact
 
-* Repo created by [ABateman](https://www.andrewbateman.org) - you are welcome to [send me a message](https://andrewbateman.org/contact)
+* Repo created by [ABateman](https://github.com/AndrewJBateman), email: gomezbateman@yahoo.com
